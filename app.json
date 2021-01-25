@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "StorePremium",
+    "slug": "StorePremium",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon10.png",
+    "splash": {
+      "image": "./assets/images/BG-01.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "notification": {
+      "icon": "./assets/images/icon10.png",
+      "color": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.gosoft.storepremium",
+      "permissions": [
+        "CAMERA",
+        "MANAGE_DOCUMENTS"
+      ]
+    }
+  }
+}

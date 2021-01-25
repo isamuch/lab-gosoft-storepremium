@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540574741937",
+    "firebase_url": "https://test-realtime-database-394a2.firebaseio.com",
+    "project_id": "test-realtime-database-394a2",
+    "storage_bucket": "test-realtime-database-394a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540574741937:android:37a4c0ed65546753b0b990",
+        "android_client_info": {
+          "package_name": "test.test.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540574741937-b0jbpdc37afn2q2n7mm6nl14vctrebfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACF1phvo3Udfhj57Uw3UGOeteLaRNcq_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540574741937-b0jbpdc37afn2q2n7mm6nl14vctrebfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
